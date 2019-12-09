@@ -4,6 +4,7 @@
   "description": "contains utility tools for manipulating objects and collections in TypeScript or JavaScript",
   "main": "dist/index.js",
   "scripts": {
+    "build":  "tsc .",
     "test": "jest"
   },
   "repository": {
